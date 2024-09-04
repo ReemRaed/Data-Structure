@@ -1,2 +1,2 @@
 # Data -Structure-
-Design Pattern Implementation using Java script
+Data Structure Implementation using Java script
